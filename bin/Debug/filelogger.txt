@@ -1,0 +1,368 @@
+Recovered: 1 Deaths: 1
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+3 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 1 Deaths: 1
+3 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 0 Deaths: 0
+2 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+2 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 3 Deaths: 3
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 6 moved into Sanotorium
+Recovered: 0 Deaths: 0
+4 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 3 Deaths: 3
+3 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 3 Deaths: 3
+4 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+0 patients moved in to IVA. 0 moved into Sanotorium
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 1 Deaths: 1
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 4 moved into Sanotorium
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+4 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 0 Deaths: 0
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 4 Deaths: 4
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+5 patients moved in to IVA. 10 moved into Sanotorium
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 2 Deaths: 2
+Recovered: 0 Deaths: 0
+3 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+4 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+Recovered: 2 Deaths: 2
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 1 moved into Sanotorium
+0 patients moved in to IVA. 5 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 1 Deaths: 1
+Recovered: 2 Deaths: 2
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 1 Deaths: 1
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+3 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 3 Deaths: 3
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+Recovered: 1 Deaths: 1
+5 patients moved in to IVA. 10 moved into Sanotorium
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 0 Deaths: 0
+4 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 4 moved into Sanotorium
+Recovered: 0 Deaths: 0
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 4 Deaths: 4
+4 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+Recovered: 1 Deaths: 1
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+2 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 3 Deaths: 3
+5 patients moved in to IVA. 10 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+5 patients moved in to IVA. 2 moved into Sanotorium
+Recovered: 1 Deaths: 1
+2 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 0 Deaths: 0
+1 patients moved in to IVA. 1 moved into Sanotorium
+Recovered: 2 Deaths: 2
+4 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 0 Deaths: 0
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 3 moved into Sanotorium
+Recovered: 2 Deaths: 2
+Recovered: 0 Deaths: 0
+3 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 0 Deaths: 0
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+2 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 2 Deaths: 2
+1 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
+0 patients moved in to IVA. 0 moved into Sanotorium
+Recovered: 1 Deaths: 1
