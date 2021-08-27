@@ -1,4 +1,5 @@
 # krankenhausHospitalSimulation
+Console application
 
 Thread 1: Adds 30 Patients to the queue
 
